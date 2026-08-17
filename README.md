@@ -1,16 +1,19 @@
-## Hi there 👋
+# Laura May
+## estudante de TI
 
-<!--
-**maymaykjs/maymaykjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Habilidades Técnicas
+- **Linguagens/Ferramentas:** JavaScript, html, php, css
+- **Soft Skills:** Resolução de problemas, Trabalho em equipe, Comunicação
+
+
+---
+
+## 📬 Contato
+Vamos conversar?
+
+- **E-mail:** : lauda2383@gmail.com
+ 
+*Feito com foco em qualidade e inovação.*
